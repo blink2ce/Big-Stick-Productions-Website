@@ -388,4 +388,10 @@ a:focus, a:hover, a:active {
 #emailaddress{
   margin-top:30px;
 }
+#img{
+  max-width:300px;
+  height:auto;
+  display:block;
+  margin:auto;
+}
 /*=========End of my additional styles=============*/
